@@ -14,3 +14,10 @@ fields:
 - type: text
   name: description
   label: description
+- name: sortable
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Sortable
